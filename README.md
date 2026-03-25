@@ -4,5 +4,5 @@ Este trabajo tiene la estructura para la gestion de pasajes de avión aborda tod
 * Árboles Binarios de Busqueda (BST) o Estructuras No Lineales.
 * Modularización y Reutilización de Código.
 * POO (Programación Orientada a Objetos)
-* * Encapsulamiento y Herencia
+  * Encapsulamiento y Herencia
 * Gestión de Pasajes de Avión.
