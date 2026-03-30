@@ -5,7 +5,7 @@ Este proyecto desarrolla un sistema integral para la gestión de vuelos y pasaje
 ## Contenidos Técnicos Aplicados
 * Árboles Binarios de Busqueda (BST): ** Implementación de estructuras no lineales para optimizar la gestión de vuelos.
 *  **POO Avanzada: ** Aplicación de 
-** ncapsulamiento y Herencia** para el modelado de Pasajeros, Equipaje y Vuelos.
+** Encapsulamiento y Herencia** para el modelado de Pasajeros, Equipaje y Vuelos.
 * **Modularización:** Organización del código en multiples archivos para mejorar la reutilización y el mantenimiento.
 * **Gestión de Datos:** Lógica de negocio aplicada a la reserva y administración de pasajes de avión.
 
